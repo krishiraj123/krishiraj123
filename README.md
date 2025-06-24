@@ -31,7 +31,9 @@
 <a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 <h2>✒️ Coding profiles</h2>
-<p> <a href="https://www.hackerrank.com/profile/krishirajvansia1" target="_blank" style="display: inline-block; margin-right: 10px;"> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="42" height="42"/> </a> <a href="https://leetcode.com/u/94ApeX26/" target="_blank" style="display: inline-block;"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="42" height="42"/> </a> </p> <ul> <li><a href="https://www.hackerrank.com/profile/krishirajvansia1" target="_blank">HackerRank Profile</a></li> <li><a href="https://leetcode.com/u/94ApeX26/" target="_blank">LeetCode Profile</a></li> </ul>
+<p> <a href="https://www.hackerrank.com/profile/krishirajvansia1" target="_blank" style="display: inline-block; margin-right: 10px;"> 
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="42" height="42"/> </a> <a href="https://leetcode.com/u/94ApeX26/" target="_blank" style="display: inline-block;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="42" height="42"/> </a> </p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/krishirajsinh-vansia-b97139263/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/krishiraj123" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
